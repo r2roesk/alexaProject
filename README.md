@@ -1,5 +1,5 @@
 # alexaProject
 
-Simple Alexa Tutorials as Followed On:
+Simple Alexa tutorials as followed on:
 
 https://github.com/alexa/skill-sample-nodejs-fact
